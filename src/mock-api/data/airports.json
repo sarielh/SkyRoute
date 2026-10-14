@@ -1,0 +1,219 @@
+[
+  {
+    "code": "TLV",
+    "name": "Ben Gurion International Airport",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "code": "LHR",
+    "name": "London Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "timezone": "Europe/London"
+  },
+  {
+    "code": "LGW",
+    "name": "London Gatwick Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "timezone": "Europe/London"
+  },
+  {
+    "code": "DUB",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "country": "Ireland",
+    "timezone": "Europe/Dublin"
+  },
+  {
+    "code": "CDG",
+    "name": "Paris Charles de Gaulle Airport",
+    "city": "Paris",
+    "country": "France",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "code": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam"
+  },
+  {
+    "code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "country": "Germany",
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "code": "MUC",
+    "name": "Munich Airport",
+    "city": "Munich",
+    "country": "Germany",
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "code": "FCO",
+    "name": "Rome Fiumicino Airport",
+    "city": "Rome",
+    "country": "Italy",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "code": "MXP",
+    "name": "Milan Malpensa Airport",
+    "city": "Milan",
+    "country": "Italy",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "code": "BCN",
+    "name": "Barcelona El Prat Airport",
+    "city": "Barcelona",
+    "country": "Spain",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "code": "MAD",
+    "name": "Madrid Barajas Airport",
+    "city": "Madrid",
+    "country": "Spain",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "code": "LIS",
+    "name": "Lisbon Humberto Delgado Airport",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "timezone": "Europe/Lisbon"
+  },
+  {
+    "code": "ZRH",
+    "name": "Zurich Airport",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "code": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "country": "Austria",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "code": "PRG",
+    "name": "Prague Václav Havel Airport",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague"
+  },
+  {
+    "code": "BUD",
+    "name": "Budapest Ferenc Liszt Airport",
+    "city": "Budapest",
+    "country": "Hungary",
+    "timezone": "Europe/Budapest"
+  },
+  {
+    "code": "CPH",
+    "name": "Copenhagen Airport",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "timezone": "Europe/Copenhagen"
+  },
+  {
+    "code": "ATH",
+    "name": "Athens International Airport",
+    "city": "Athens",
+    "country": "Greece",
+    "timezone": "Europe/Athens"
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "timezone": "Europe/Istanbul"
+  },
+  {
+    "code": "LCA",
+    "name": "Larnaca International Airport",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "timezone": "Asia/Nicosia"
+  },
+  {
+    "code": "DXB",
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "code": "BKK",
+    "name": "Bangkok Suvarnabhumi Airport",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "code": "SIN",
+    "name": "Singapore Changi Airport",
+    "city": "Singapore",
+    "country": "Singapore",
+    "timezone": "Asia/Singapore"
+  },
+  {
+    "code": "NRT",
+    "name": "Tokyo Narita International Airport",
+    "city": "Tokyo",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "code": "JFK",
+    "name": "New York John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "United States",
+    "timezone": "America/New_York"
+  },
+  {
+    "code": "EWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark",
+    "country": "United States",
+    "timezone": "America/New_York"
+  },
+  {
+    "code": "MIA",
+    "name": "Miami International Airport",
+    "city": "Miami",
+    "country": "United States",
+    "timezone": "America/New_York"
+  },
+  {
+    "code": "LAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "United States",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "code": "YYZ",
+    "name": "Toronto Pearson International Airport",
+    "city": "Toronto",
+    "country": "Canada",
+    "timezone": "America/Toronto"
+  }
+]

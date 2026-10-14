@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply min-h-screen bg-slate-50 font-sans text-ink antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display tracking-tight;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-slate-200/80 bg-white shadow-card;
+  }
+  .btn {
+    @apply inline-flex select-none items-center justify-center gap-2 whitespace-nowrap rounded-xl px-4 py-2.5 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-55;
+  }
+  .btn-primary {
+    @apply btn bg-gradient-to-r from-brand-600 to-accent-600 text-white shadow-sm hover:from-brand-700 hover:to-accent-700 hover:shadow-lift disabled:from-slate-300 disabled:to-slate-400 disabled:opacity-100 disabled:shadow-none;
+  }
+  .btn-secondary {
+    @apply btn border border-slate-300 bg-white text-ink hover:border-slate-400 hover:bg-slate-50;
+  }
+  .btn-ghost {
+    @apply btn text-brand-700 hover:bg-brand-50;
+  }
+  .btn-danger {
+    @apply btn bg-red-600 text-white hover:bg-red-700;
+  }
+  .input {
+    @apply block w-full rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-[15px] text-ink shadow-sm transition placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-4 focus:ring-brand-100 disabled:cursor-not-allowed disabled:bg-slate-100;
+  }
+  .input-error {
+    @apply border-red-400 focus:border-red-500 focus:ring-red-100;
+  }
+  .label {
+    @apply mb-1.5 block text-sm font-medium text-ink-soft;
+  }
+  .field-error {
+    @apply mt-1.5 flex items-start gap-1.5 text-[13px] leading-snug text-red-600;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-medium transition;
+  }
+}

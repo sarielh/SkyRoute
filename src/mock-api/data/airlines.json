@@ -1,0 +1,44 @@
+[
+  {
+    "code": "A7",
+    "name": "Aurora Airways",
+    "lowCost": false,
+    "economySeats": 162,
+    "businessSeats": 24
+  },
+  {
+    "code": "M3",
+    "name": "Meridian Air",
+    "lowCost": false,
+    "economySeats": 150,
+    "businessSeats": 16
+  },
+  {
+    "code": "C9",
+    "name": "Cedar Airlines",
+    "lowCost": false,
+    "economySeats": 144,
+    "businessSeats": 12
+  },
+  {
+    "code": "P8",
+    "name": "Polaris International",
+    "lowCost": false,
+    "economySeats": 260,
+    "businessSeats": 36
+  },
+  {
+    "code": "B5",
+    "name": "Bluewing",
+    "lowCost": true,
+    "economySeats": 186,
+    "businessSeats": 0
+  },
+  {
+    "code": "N4",
+    "name": "Nimbus Air",
+    "lowCost": true,
+    "economySeats": 180,
+    "businessSeats": 0
+  }
+]
